@@ -57,3 +57,7 @@ Kannada
 Telugu
 
 Tamil
+
+Malayalam
+
+Korean
