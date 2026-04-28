@@ -53,3 +53,7 @@ English
 Hindi
 
 Kannada
+
+Telugu
+
+Tamil
