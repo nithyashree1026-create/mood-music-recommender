@@ -138,7 +138,17 @@ mood-music-recommender/
 
 │── script.js
 ## 💡 Use Cases
+
 Discover music based on mood
+## 🔮 Future Improvements
+
+Real music API integration (Spotify / YouTube Data API)
+
+User login & personalized recommendations
+
+Playlist saving system
+
+Advanced animations and transitions
 
 Study / focus playlists
 
