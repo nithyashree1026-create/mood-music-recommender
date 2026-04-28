@@ -85,3 +85,8 @@ No need to leave the app to listen
 "love" → Romantic
 
 Improves user experience with intelligent mapping
+## ✨ Favorite song
+
+Save favorite mood + language combinations
+
+Stored using localStorage
