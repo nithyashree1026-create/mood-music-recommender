@@ -38,10 +38,10 @@ Angry
 Romantic
 
 **Each mood displays:**
-## 🌍 Multi-Language Support
 
 Playlist title
 
 Description
 
 Song preview list
+## 🌍 Multi-Language Support
