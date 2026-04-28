@@ -45,3 +45,7 @@ Description
 
 Song preview list
 ## 🌍 Multi-Language Support
+
+**Supports multiple languages:**
+
+English
