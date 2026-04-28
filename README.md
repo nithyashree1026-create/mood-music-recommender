@@ -129,3 +129,11 @@ JavaScript (Vanilla) – Logic & interactivity
 YouTube Embed API – Music playback
 
 LocalStorage – Data persistence
+## 📁 Project Structure
+mood-music-recommender/
+
+│── index.html
+
+│── style.css
+
+│── script.js
