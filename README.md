@@ -119,3 +119,13 @@ Loading animation before playback
 Clean empty-state UI
 
 Smooth transitions
+## 🛠️ Tech Stack
+HTML5 – Structure
+
+CSS3 – Styling & animations
+
+JavaScript (Vanilla) – Logic & interactivity
+
+YouTube Embed API – Music playback
+
+LocalStorage – Data persistence
