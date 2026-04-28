@@ -36,6 +36,7 @@ Chill
 Angry
 
 Romantic
+
 **Each mood displays:**
 
 Playlist title
