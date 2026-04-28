@@ -111,3 +111,11 @@ Balanced
 High Energy
 
 Updates playlist experience dynamically
+## 📊 Smart UI Features
+Mood-based quotes
+
+Loading animation before playback
+
+Clean empty-state UI
+
+Smooth transitions
