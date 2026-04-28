@@ -90,3 +90,7 @@ Improves user experience with intelligent mapping
 Save favorite mood + language combinations
 
 Stored using localStorage
+
+One-click replay from favorites
+
+Delete option available
