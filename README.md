@@ -36,3 +36,10 @@ Chill
 Angry
 
 Romantic
+**Each mood displays:**
+
+Playlist title
+
+Description
+
+Song preview list
