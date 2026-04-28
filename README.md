@@ -49,3 +49,7 @@ Song preview list
 **Supports multiple languages:**
 
 English
+
+Hindi
+
+Kannada
