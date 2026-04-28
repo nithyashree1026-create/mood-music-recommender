@@ -137,3 +137,11 @@ mood-music-recommender/
 │── style.css
 
 │── script.js
+## 💡 Use Cases
+Discover music based on mood
+
+Study / focus playlists
+
+Relaxation and chill sessions
+
+Quick music access without searching
