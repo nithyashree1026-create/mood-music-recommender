@@ -11,3 +11,7 @@ This project combines UI design, user interaction, and real-time media embedding
 ## ✨ Features
 
 **🎨 Premium UI / Design**
+
+Glassmorphism-based modern interface
+
+Gradient + music-themed background image
