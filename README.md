@@ -38,6 +38,7 @@ Angry
 Romantic
 
 **Each mood displays:**
+## 🌍 Multi-Language Support
 
 Playlist title
 
