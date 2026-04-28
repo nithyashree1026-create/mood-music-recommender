@@ -67,3 +67,4 @@ Japanese
 Dynamic playlist updates based on mood + language
 
 Language badge displayed in UI
+## 🎵 Music Integration
