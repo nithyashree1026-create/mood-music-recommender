@@ -15,3 +15,9 @@ This project combines UI design, user interaction, and real-time media embedding
 Glassmorphism-based modern interface
 
 Gradient + music-themed background image
+
+Smooth hover animations and transitions
+
+Fully responsive (mobile + desktop)
+
+Dark / Light mode toggle
