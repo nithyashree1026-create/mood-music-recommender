@@ -21,3 +21,12 @@ Smooth hover animations and transitions
 Fully responsive (mobile + desktop)
 
 Dark / Light mode toggle
+## 😊 Mood Selection System
+
+**Predefined moods:**
+
+Happy
+
+Sad
+
+Focus
