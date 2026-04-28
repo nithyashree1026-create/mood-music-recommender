@@ -155,3 +155,8 @@ Study / focus playlists
 Relaxation and chill sessions
 
 Quick music access without searching
+## 👩‍💻 Author
+
+Nithya Siri
+
+Final Year ECE Student | Web Developer | Project Builder
