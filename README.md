@@ -72,3 +72,5 @@ Language badge displayed in UI
 Embedded YouTube player (plays directly inside website)
 
 No need to leave the app to listen
+
+“Open in YouTube” option available
