@@ -9,3 +9,5 @@ Instead of manually searching for songs, simply select your mood, choose your pr
 
 This project combines UI design, user interaction, and real-time media embedding to create a product-like experience.
 ## ✨ Features
+
+**🎨 Premium UI / Design**
