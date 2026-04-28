@@ -75,3 +75,13 @@ No need to leave the app to listen
 
 “Open in YouTube” option available
 ## 🔍 Smart Search
+
+**Search moods using natural words:**
+
+"tired" → Chill
+
+"study" → Focus
+
+"love" → Romantic
+
+Improves user experience with intelligent mapping
