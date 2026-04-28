@@ -101,3 +101,13 @@ Tracks last played moods
 Quick access for repeated listening
 
 Delete option available
+available
+## 🎚️ Mood Intensity Control
+**Adjust vibe level:**
+Soft
+
+Balanced
+
+High Energy
+
+Updates playlist experience dynamically
