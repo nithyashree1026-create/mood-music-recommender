@@ -30,3 +30,9 @@ Happy
 Sad
 
 Focus
+
+Chill
+
+Angry
+
+Romantic
