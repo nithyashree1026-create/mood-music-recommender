@@ -95,3 +95,9 @@ One-click replay from favorites
 
 Delete option available
 ## 🕓 Recently Played
+
+Tracks last played moods
+
+Quick access for repeated listening
+
+Delete option available
