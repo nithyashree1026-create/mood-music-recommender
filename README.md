@@ -94,3 +94,4 @@ Stored using localStorage
 One-click replay from favorites
 
 Delete option available
+## 🕓 Recently Played
